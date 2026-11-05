@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend – Expense Tracker",
+  "description": "A modern, professional expense tracker app with daily and monthly spending analytics, category breakdowns, local storage, and exportable Flutter Dart source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
